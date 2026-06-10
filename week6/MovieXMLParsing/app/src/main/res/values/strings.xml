@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie XML Parsing</string>
+    <string name="movie_url">https://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.xml</string>
+    <string name="movie_key">0ae4e9c5a2d3a124a0ed11da313516cb</string>
+</resources>
